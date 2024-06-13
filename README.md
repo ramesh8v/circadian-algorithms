@@ -1,2 +1,2 @@
-# circadian-algorithms
+# Circadian Algorithms
 Conceptual introduction to circadian algorithms
